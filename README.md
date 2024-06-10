@@ -21,14 +21,14 @@ This script automates the installation of Docker and Docker Compose on various L
 
 ## Usage
 
-1. Save the script to a file, e.g., `install_docker.sh`.
+1. Save the script to a file, e.g., `whale.sh`.
 2. Make the script executable:
     ```bash
-    chmod +x install_docker.sh
+    chmod +x whale.sh
     ```
 3. Run the script:
     ```bash
-    sudo ./install_docker.sh
+    sudo ./whale.sh
     ```
 
 After running the script, log out and log back in to apply the Docker group changes.
